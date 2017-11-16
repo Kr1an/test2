@@ -130,4 +130,4 @@ export default compose(
   withReducer,
   withSaga,
   withConnect
-)(HomePage);
+)(HomePage)
